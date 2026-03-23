@@ -883,7 +883,8 @@ function verificarUsuarioCompra() {
   <link rel="stylesheet" href="css/style.css">
   
   <!-- SDK de PayPal -->
-  <script src="https://www.paypal.com/sdk/js?client-id=TU_CLIENT_ID&currency=EUR"></script>
+ <!-- SDK de PayPal -->
+<script src="https://www.paypal.com/sdk/js?client-id=AWnlU4DtPZkr_KyqqGzuJzVpeYfsWRsAtdYzixp4a-E0UMoeeDU-MGJuNFoc2VIEiWWQtx6nooSe9BC&currency=EUR"></script>
 </head>
 <body>
   <header>
